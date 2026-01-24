@@ -1,0 +1,17 @@
+# Data
+research/crime-education-project/data/raw/
+research/crime-education-project/data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.venv/
+
+# OS / Editor
+.DS_Store
+.vscode/
