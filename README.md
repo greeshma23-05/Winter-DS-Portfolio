@@ -59,6 +59,7 @@ These results suggest limited linear predictive signal, while nonlinear modeling
 - Figures: `figures/*.png`
 
 ## Repository Structure
+README.md/
 project-2-research/
   data/
     raw/
